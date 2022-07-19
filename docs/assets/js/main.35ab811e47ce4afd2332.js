@@ -1,0 +1,1 @@
+(()=>{"use strict";!function(e){console.log("Creando etiqueta html>Body>h2");var n=document.createElement("h2");n.innerText="".concat(e,", configuracion base de WebPack se ha instalado y esta funcionando"),document.body.append(n)}("Jeka")})();
